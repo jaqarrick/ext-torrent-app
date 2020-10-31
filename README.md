@@ -1,4 +1,3 @@
-# React Template
+# Ext-Torrent
 
-Custom create-react-app template with Typescript enabled
-Run `npm i` on initialization
+Node.js bitTorrent client and data sonifier
